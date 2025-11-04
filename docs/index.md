@@ -1,16 +1,13 @@
 ---
 layout: default
-title: mozalina - Privacy Policy
-lang: ja
+title: Privacy Policies
 ---
 
-# mozalina プライバシーポリシー
+# Privacy Policies
 
-[日本語](./privacy-policy.html) | [English](./privacy-policy-en.html)
+このサイトでは、各アプリのプライバシーポリシーを公開しています。
 
----
+## Apps
 
-本アプリ「mozalina（モザリナ）」のプライバシーポリシーです。
+- [mozalina](./mozalina/) - Face stamp photo editing app
 
-- [日本語版プライバシーポリシー](./privacy-policy.html)
-- [English Privacy Policy](./privacy-policy-en.html)
