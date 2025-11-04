@@ -1,0 +1,11 @@
+title: mozalina
+description: Face stamp photo editing app
+theme: minima
+lang: ja
+
+# GitHub Pages settings
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
