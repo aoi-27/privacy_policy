@@ -10,4 +10,5 @@ title: Privacy Policies
 ## Apps
 
 - [mozalina](./mozalina/) - Face stamp photo editing app
+- [BlurPic](./blurpic/) - Photo blur editing app
 
