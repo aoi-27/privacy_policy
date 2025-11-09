@@ -103,8 +103,7 @@ Privacy policies of third-party services used by the App:
 
 If you have any questions or concerns about this Privacy Policy, please contact us:
 
-- Support URL: [http://apps.pplace.jp](http://apps.pplace.jp)
-- Twitter: [@spring_and_more](https://twitter.com/spring_and_more)
+- Support URL: [https://aoi-27.github.io/privacy_policy/mozalina/privacy-policy.html](https://aoi-27.github.io/privacy_policy/mozalina/privacy-policy.html)
 
 ---
 

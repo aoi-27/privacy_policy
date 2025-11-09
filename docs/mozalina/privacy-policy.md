@@ -103,8 +103,7 @@ lang: ja
 
 本プライバシーポリシーに関するご質問やご不明な点がございましたら、以下までお問い合わせください：
 
-- サポートURL: [http://apps.pplace.jp](http://apps.pplace.jp)
-- Twitter: [@spring_and_more](https://twitter.com/spring_and_more)
+- サポートURL: [https://aoi-27.github.io/privacy_policy/mozalina/privacy-policy.html](https://aoi-27.github.io/privacy_policy/mozalina/privacy-policy.html)
 
 ---
 
