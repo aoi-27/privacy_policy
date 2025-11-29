@@ -14,4 +14,5 @@ title: Privacy Policies
 - [sweetdeco](./sweetdeco/) - Photo editing app with stamps and frames
 - [retromo](./retromo/) - Retro photo editing app
 - [sweet scan](./sweetscan/) - Cute QR code reader app
+- [mozata](./mozata/) - Mosaic photo editing app
 
