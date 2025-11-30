@@ -15,4 +15,6 @@ title: Privacy Policies
 - [retromo](./retromo/) - Retro photo editing app
 - [sweet scan](./sweetscan/) - Cute QR code reader app
 - [mozata](./mozata/) - Mosaic photo editing app
+- [HotchPotch](./hotchpotch/) - Photo editing app
+- [mydeco](./mydeco/) - Photo editing app
 
