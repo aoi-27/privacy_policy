@@ -17,4 +17,5 @@ title: Privacy Policies
 - [mozata](./mozata/) - Mosaic photo editing app
 - [HotchPotch](./hotchpotch/) - Photo editing app
 - [mydeco](./mydeco/) - Photo editing app
+- [natsuki](./natsuki/) - Photo editing app
 
