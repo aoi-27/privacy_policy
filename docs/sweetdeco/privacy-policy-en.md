@@ -26,12 +26,13 @@ The App requests access to photos and camera for the following purposes:
 
 **Important**: Photos taken or selected are processed only on your device and are never transmitted to external servers.
 
-### 2. Crash Reports (Crashlytics)
+### 2. Analytics Data (Firebase Analytics)
 
-The App uses Firebase Crashlytics to improve our services. The following information may be automatically collected:
+The App uses Firebase Analytics to improve our services. The following information may be automatically collected:
 
-- Crash reports (for improving app stability)
+- App usage information (screen navigation, feature usage frequency, etc.)
 - Device information (device model, OS version, etc.)
+- Crash reports (for improving app stability)
 
 This information is anonymized and does not contain personally identifiable information.
 
@@ -61,13 +62,14 @@ The collected information is used for the following purposes:
 
 1. Providing app functionality (photo editing features)
 2. Improving app quality and fixing bugs
-3. Delivering advertisements
+3. Analyzing app usage
+4. Delivering advertisements
 
 ## Information Sharing
 
 Information collected by the App may be shared with the following third-party services:
 
-- **Firebase Crashlytics**: For crash reporting
+- **Google Firebase**: For app analytics and crash reporting
 - **Google AdMob**: For ad delivery
 
 These services handle information according to their respective privacy policies.
@@ -83,7 +85,7 @@ You have the following rights:
 ## Data Retention Period
 
 - Photo data: Processed only on the device and not stored by the App
-- Crash reports: Stored according to Firebase Crashlytics policies
+- Analytics data: Stored according to Firebase Analytics policies
 - Advertising data: Stored according to AdMob policies
 
 ## Children's Privacy
@@ -103,7 +105,7 @@ This Privacy Policy may be changed without notice. In case of significant change
 Privacy policies of third-party services used by the App:
 
 - [Google Privacy Policy](https://policies.google.com/privacy)
-- [Firebase Crashlytics Privacy and Security](https://firebase.google.com/support/privacy)
+- [Firebase Privacy and Security](https://firebase.google.com/support/privacy)
 - [AdMob (Google Ads)](https://support.google.com/admob/answer/6128543)
 
 ## Contact Us

@@ -26,16 +26,7 @@ This app requests access to photos and camera for the following purposes:
 
 **Important**: All photos taken or selected are processed only on your device and are never sent to external servers.
 
-### 2. Crash Reports (Crashlytics)
-
-This app uses Firebase Crashlytics to improve our service. The following information may be automatically collected:
-
-- Crash reports (for improving app stability)
-- Device information (device model, OS version, etc.)
-
-This information is anonymized and does not contain personally identifiable information.
-
-### 3. Advertising Information (AdMob)
+### 2. Advertising Information (AdMob)
 
 This app uses Google AdMob to display advertisements. AdMob may collect the following information to optimize ad delivery:
 
@@ -46,7 +37,7 @@ This app uses Google AdMob to display advertisements. AdMob may collect the foll
 
 For more details, please see [Google's Privacy Policy](https://policies.google.com/privacy).
 
-### 4. Other Permissions
+### 3. Other Permissions
 
 As part of the advertising service, this app may request the following permissions:
 
@@ -67,7 +58,6 @@ Collected information is used for the following purposes:
 
 Information collected by this app may be shared with the following third-party services:
 
-- **Firebase Crashlytics**: For crash reporting
 - **Google AdMob**: For advertising delivery
 
 These services handle information according to their respective privacy policies.
@@ -83,7 +73,6 @@ You have the following rights:
 ## Data Retention
 
 - Photo data: Processed only on device and not stored by the app
-- Crash reports: Stored according to Firebase Crashlytics policy
 - Advertising data: Stored according to AdMob policy
 
 ## Children's Privacy
@@ -103,7 +92,6 @@ This Privacy Policy may be changed without notice. If there are significant chan
 Privacy policies of third-party services used by this app:
 
 - [Google Privacy Policy](https://policies.google.com/privacy)
-- [Firebase Crashlytics Privacy and Security](https://firebase.google.com/support/privacy)
 - [AdMob (Google Advertising)](https://support.google.com/admob/answer/6128543)
 
 ## Contact Us

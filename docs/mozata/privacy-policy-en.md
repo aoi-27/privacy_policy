@@ -26,16 +26,7 @@ The App requests access to photos and camera for the following purposes:
 
 **Important**: Photos taken or selected are processed only on your device and are never transmitted to external servers.
 
-### 2. Crash Reports (Crashlytics)
-
-The App uses Firebase Crashlytics to improve our services. The following information may be automatically collected:
-
-- Crash reports (for improving app stability)
-- Device information (device model, OS version, etc.)
-
-This information is anonymized and does not contain personally identifiable information.
-
-### 3. Advertising Data (AdMob)
+### 2. Advertising Data (AdMob)
 
 The App uses Google AdMob to display advertisements. AdMob may collect the following information to optimize ad delivery:
 
@@ -46,7 +37,7 @@ The App uses Google AdMob to display advertisements. AdMob may collect the follo
 
 For more details, please see [Google's Privacy Policy](https://policies.google.com/privacy).
 
-### 4. Other Permissions
+### 3. Other Permissions
 
 The App may request the following permissions as part of advertising services:
 
@@ -67,7 +58,6 @@ The collected information is used for the following purposes:
 
 Information collected by the App may be shared with the following third-party services:
 
-- **Firebase Crashlytics**: For crash reporting
 - **Google AdMob**: For ad delivery
 
 These services handle information according to their respective privacy policies.
@@ -83,7 +73,6 @@ You have the following rights:
 ## Data Retention Period
 
 - Photo data: Processed only on the device and not stored by the App
-- Crash reports: Stored according to Firebase Crashlytics policies
 - Advertising data: Stored according to AdMob policies
 
 ## Children's Privacy
@@ -103,7 +92,6 @@ This Privacy Policy may be changed without notice. In case of significant change
 Privacy policies of third-party services used by the App:
 
 - [Google Privacy Policy](https://policies.google.com/privacy)
-- [Firebase Crashlytics Privacy and Security](https://firebase.google.com/support/privacy)
 - [AdMob (Google Ads)](https://support.google.com/admob/answer/6128543)
 
 ## Contact Us
