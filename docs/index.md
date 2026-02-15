@@ -19,4 +19,5 @@ title: Privacy Policies
 - [HotchPotch](./hotchpotch/) - Photo editing app
 - [mydeco](./mydeco/) - Photo editing app
 - [natsuki](./natsuki/) - Photo editing app
+- [Giftory](./giftory/) - Anniversary and event reminder app
 
