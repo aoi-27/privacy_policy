@@ -20,4 +20,6 @@ title: Privacy Policies
 - [mydeco](./mydeco/) - Photo editing app
 - [natsuki](./natsuki/) - Photo editing app
 - [Giftory](./giftory/) - Anniversary and event reminder app
+- [Photo Roulette](./photoroulette/) - Photo roulette app
+- [Framy](./framy/) - Photo collage and frame app
 
