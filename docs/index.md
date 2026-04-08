@@ -22,4 +22,5 @@ title: Privacy Policies
 - [Giftory](./giftory/) - Anniversary and event reminder app
 - [Photo Roulette](./photoroulette/) - Photo roulette app
 - [Framy](./framy/) - Photo collage and frame app
+- [faded](./faded/) - Photo filter and fade editing app
 
