@@ -8,7 +8,7 @@ lang: en
 
 [日本語](./privacy-policy.html)
 
-Last updated: November 4, 2025
+Last updated: May 14, 2026
 
 ## Introduction
 
@@ -26,7 +26,16 @@ The App requests access to photos and camera for the following purposes:
 
 **Important**: Photos taken or selected are processed only on your device and are never transmitted to external servers.
 
-### 2. Analytics Data (Firebase Analytics)
+### 2. Face Detection
+
+The App uses Apple's Core Image framework (CIDetector) on-device to detect the location of faces within photos selected by the user, solely for the purpose of automatically positioning face stamps.
+
+- **Information detected**: Only the rectangular region (position and size) of faces. No biometric data, facial geometry, or facial recognition data is extracted.
+- **Processing location**: All face detection processing is performed entirely on your device.
+- **Retention**: Detection results are held in memory only during the active editing session and are immediately discarded when the editing screen is closed.
+- **Transmission and sharing**: No face data is saved to disk, transmitted to external servers, or shared with any third parties.
+
+### 3. Analytics Data (Firebase Analytics)
 
 The App uses Firebase Analytics to improve our services. The following information may be automatically collected:
 
@@ -36,7 +45,7 @@ The App uses Firebase Analytics to improve our services. The following informati
 
 This information is anonymized and does not contain personally identifiable information.
 
-### 3. Advertising Data (AdMob)
+### 4. Advertising Data (AdMob)
 
 The App uses Google AdMob to display advertisements. AdMob may collect the following information to optimize ad delivery:
 
@@ -76,6 +85,7 @@ You have the following rights:
 ## Data Retention Period
 
 - Photo data: Processed only on the device and not stored by the App
+- Face detection data: Held in memory only during the active editing session and immediately discarded when the editing screen is closed
 - Analytics data: Stored according to Firebase Analytics policies
 - Advertising data: Stored according to AdMob policies
 

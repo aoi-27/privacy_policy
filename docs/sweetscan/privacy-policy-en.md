@@ -8,7 +8,7 @@ lang: en
 
 [日本語](./privacy-policy.html)
 
-Last updated: January 15, 2025
+Last updated: May 14, 2026
 
 ## Introduction
 
@@ -24,14 +24,23 @@ The App requests camera access for the following purpose:
 
 **Important**: Images captured by the camera are processed only on your device and are never transmitted to external servers. All QR code reading processes are completed on the device.
 
-### 2. History Data
+### 2. OCR Text Recognition
+
+The App uses Apple's Vision framework (VNRecognizeTextRequest) on-device to recognize text within images captured by the camera.
+
+- **Information processed**: Text characters recognized within the camera image. No personal data or biometric information is collected.
+- **Processing location**: All text recognition processing is performed entirely on your device.
+- **Retention**: Recognition results are displayed in the current session and not automatically saved unless the user explicitly saves them.
+- **Transmission and sharing**: No image data or recognized text is transmitted to external servers or shared with any third parties.
+
+### 3. History Data
 
 The App stores the history of scanned QR codes on your device:
 
 - **History Storage**: Records the content and timestamp of previously scanned QR codes
 - **Local Storage**: All history data is stored only on your device and is never transmitted to external servers
 
-### 3. Analytics and Crash Reports (Firebase Analytics & Crashlytics)
+### 4. Analytics and Crash Reports (Firebase Analytics & Crashlytics)
 
 The App uses Firebase Analytics and Firebase Crashlytics to improve our services. The following information may be automatically collected:
 
@@ -41,7 +50,7 @@ The App uses Firebase Analytics and Firebase Crashlytics to improve our services
 
 This information is anonymized and does not contain personally identifiable information.
 
-### 4. Advertising Data (AdMob)
+### 5. Advertising Data (AdMob)
 
 The App uses Google AdMob to display advertisements. AdMob may collect the following information to optimize ad delivery:
 
@@ -52,7 +61,7 @@ The App uses Google AdMob to display advertisements. AdMob may collect the follo
 
 For more details, please see [Google's Privacy Policy](https://policies.google.com/privacy).
 
-### 5. App Tracking Transparency (ATT)
+### 6. App Tracking Transparency (ATT)
 
 On iOS 14 and later, we use the App Tracking Transparency framework to request tracking permission. You can change tracking permission at any time in your device settings.
 
@@ -60,7 +69,7 @@ On iOS 14 and later, we use the App Tracking Transparency framework to request t
 
 The collected information is used for the following purposes:
 
-1. Providing app functionality (QR code reading features, history management)
+1. Providing app functionality (QR code reading features, OCR text recognition features, history management)
 2. Improving app quality and fixing bugs
 3. Analyzing app usage
 4. Delivering advertisements
@@ -90,6 +99,7 @@ You have the following rights:
 ## Data Retention Period
 
 - QR code history data: Stored only on the device and retained until you uninstall the app or delete the history
+- OCR recognized text: Used only for display in the current session and not automatically saved by the App unless explicitly saved by the user
 - Crash reports: Stored according to Firebase Crashlytics policies
 - Analytics data: Stored according to Firebase Analytics policies
 - Advertising data: Stored according to AdMob policies

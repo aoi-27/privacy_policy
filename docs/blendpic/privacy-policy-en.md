@@ -8,7 +8,7 @@ lang: en
 
 [日本語](./privacy-policy.html)
 
-Last updated: December 2, 2025
+Last updated: May 14, 2026
 
 ## Introduction
 
@@ -26,7 +26,16 @@ The App requests access to photos and camera for the following purposes:
 
 **Important**: Photos taken or selected are processed only on your device and are never transmitted to external servers.
 
-### 2. Analytics Data (Firebase Analytics)
+### 2. AI Background Removal
+
+The App uses Apple's Vision framework (VNGeneratePersonSegmentationRequest) on-device to detect and separate people from the background in photos selected by the user, solely for the purpose of enabling AI-powered background removal.
+
+- **Information detected**: A pixel-level mask indicating which areas of the photo contain a person. No biometric data, facial geometry, or identity information is extracted.
+- **Processing location**: All processing is performed entirely on your device.
+- **Retention**: Processing results are held in memory only during the active editing session and are immediately discarded when the editing screen is closed.
+- **Transmission and sharing**: No processed data is saved to disk, transmitted to external servers, or shared with any third parties.
+
+### 3. Analytics Data (Firebase Analytics)
 
 The App uses Firebase Analytics to improve our services. The following information may be automatically collected:
 
@@ -36,7 +45,7 @@ The App uses Firebase Analytics to improve our services. The following informati
 
 This information is anonymized and does not contain personally identifiable information.
 
-### 3. Advertising Data (AdMob)
+### 4. Advertising Data (AdMob)
 
 The App uses Google AdMob to display advertisements. AdMob may collect the following information to optimize ad delivery:
 
@@ -47,7 +56,7 @@ The App uses Google AdMob to display advertisements. AdMob may collect the follo
 
 For more details, please see [Google's Privacy Policy](https://policies.google.com/privacy).
 
-### 4. Other Permissions
+### 5. Other Permissions
 
 The App may request the following permissions as part of advertising services:
 
@@ -85,6 +94,7 @@ You have the following rights:
 ## Data Retention Period
 
 - Photo data: Processed only on the device and not stored by the App
+- AI background removal data: Held in memory only during the active editing session and immediately discarded when the editing screen is closed
 - Analytics data: Stored according to Firebase Analytics policies
 - Advertising data: Stored according to AdMob policies
 
