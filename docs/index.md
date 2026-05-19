@@ -23,4 +23,5 @@ title: Privacy Policies
 - [Photo Roulette](./photoroulette/) - Photo roulette app
 - [Framy](./framy/) - Photo collage and frame app
 - [faded](./faded/) - Photo filter and fade editing app
+- [memofilm](./memofilm/) - Slideshow video creation app
 
