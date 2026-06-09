@@ -25,5 +25,5 @@ title: Privacy Policies
 - [faded](./faded/) - Photo filter and fade editing app
 - [memofilm](./memofilm/) - Slideshow video creation app
 - [Ritmo](./ritmo/) - Habit tracker app
-- [item memory](./item_memory/) - Purchase price and reminder management app
+- [StockLog](./stocklog/) - Purchase price and reminder management app
 

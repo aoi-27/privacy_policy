@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Privacy Policy - item memory
+title: Privacy Policy - StockLog
 lang: en
 ---
 
@@ -12,7 +12,7 @@ Last updated: June 9, 2026
 
 ## Introduction
 
-"item memory" (hereinafter referred to as "the App") is an application for tracking purchase prices of subscriptions and manual purchases, and managing next-purchase-date reminders. This Privacy Policy explains how we handle personal information in the App.
+"StockLog" (hereinafter referred to as "the App") is an application for tracking purchase prices of subscriptions and manual purchases, and managing next-purchase-date reminders. This Privacy Policy explains how we handle personal information in the App.
 
 ## Information We Collect
 
@@ -97,7 +97,7 @@ Privacy policies of third-party services used by the App:
 
 If you have any questions or concerns about this Privacy Policy, please contact us:
 
-- Support URL: [https://aoi-27.github.io/privacy_policy/item_memory/privacy-policy.html](https://aoi-27.github.io/privacy_policy/item_memory/privacy-policy.html)
+- Support URL: [https://aoi-27.github.io/privacy_policy/stocklog/privacy-policy.html](https://aoi-27.github.io/privacy_policy/stocklog/privacy-policy.html)
 
 ---
 

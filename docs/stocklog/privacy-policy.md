@@ -1,6 +1,6 @@
 ---
 layout: default
-title: プライバシーポリシー - item memory
+title: プライバシーポリシー - StockLog
 lang: ja
 ---
 
@@ -12,7 +12,7 @@ lang: ja
 
 ## はじめに
 
-「item memory（アイテムメモリー）」（以下、「本アプリ」といいます）は、自動定期便・手動購入品の価格記録と次回購入日の通知を管理するアプリケーションです。本プライバシーポリシーでは、本アプリにおける個人情報の取り扱いについて説明します。
+「StockLog」（以下、「本アプリ」といいます）は、自動定期便・手動購入品の価格記録と次回購入日の通知を管理するアプリケーションです。本プライバシーポリシーでは、本アプリにおける個人情報の取り扱いについて説明します。
 
 ## 収集する情報
 
@@ -97,7 +97,7 @@ lang: ja
 
 本プライバシーポリシーに関するご質問やご不明な点がございましたら、以下までお問い合わせください：
 
-- サポートURL: [https://aoi-27.github.io/privacy_policy/item_memory/privacy-policy.html](https://aoi-27.github.io/privacy_policy/item_memory/privacy-policy.html)
+- サポートURL: [https://aoi-27.github.io/privacy_policy/stocklog/privacy-policy.html](https://aoi-27.github.io/privacy_policy/stocklog/privacy-policy.html)
 
 ---
 
