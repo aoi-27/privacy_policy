@@ -26,4 +26,5 @@ title: Privacy Policies
 - [memofilm](./memofilm/) - Slideshow video creation app
 - [Ritmo](./ritmo/) - Habit tracker app
 - [StockLog](./stocklog/) - Purchase price and reminder management app
+- [Kilo-Log](./kilo-log/) - Weight and meal tracking app
 
