@@ -27,4 +27,6 @@ title: Privacy Policies
 - [Ritmo](./ritmo/) - Habit tracker app
 - [StockLog](./stocklog/) - Purchase price and reminder management app
 - [Kilo-Log](./kilo-log/) - Weight and meal tracking app
+- [SubTrack](./subtrack/) - Subscription management app
+- [Aoi](./aoi/) - Study record and exam score tracking app
 
