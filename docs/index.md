@@ -29,4 +29,5 @@ title: Privacy Policies
 - [Kilo-Log](./kilo-log/) - Weight and meal tracking app
 - [SubTrack](./subtrack/) - Subscription management app
 - [Aoi](./aoi/) - Study record and exam score tracking app
+- [Sumi](./sumi/) - On-device screenshot redaction app
 
